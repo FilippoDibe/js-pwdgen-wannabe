@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    background-color: gainsboro;
+    border:1px solid black
+}
+header h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom:50px;
+}
+main{
+    text-align: center;
+    padding-top: 20px;
+}
+main h3{
+    padding-bottom: 30px;
+    font-size: 30px;
+}
+main #risultato{
+    border:1px solid black;
+    background-color: gainsboro;
+    width: 10%;
+    margin: 0 auto;
+}
